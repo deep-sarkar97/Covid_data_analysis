@@ -10,4 +10,4 @@ Exploring the following libraries in Jupyter Notebook.
 ## Project Summary
 
 ### Extracting COVID Data of 2020 and analysising it to get insights on Covid Cases for different countries
-##### Url for the website: 
+##### Url for the website: "https://covid19.who.int/WHO-COVID-19-global-data.csv"
