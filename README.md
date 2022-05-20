@@ -5,7 +5,9 @@ Exploring the following libraries in Jupyter Notebook.
 - Pandas
 - Matplot.lib
 - OS library(to fetch data)
+- urllib
 
 ## Project Summary
 
-###### Extracting COVID Data of 2020 and analysising it to get insights on Covid Cases for different countries
+### Extracting COVID Data of 2020 and analysising it to get insights on Covid Cases for different countries
+##### Url for the website: 
